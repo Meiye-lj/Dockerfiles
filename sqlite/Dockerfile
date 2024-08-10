@@ -27,3 +27,4 @@ RUN cd /sqlite \
 && make devtest
 EXPOSE 8080
 CMD ["/bin/bash"]
+
